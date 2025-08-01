@@ -11,6 +11,20 @@
   </a>
 </p>
 
+---
+
+### 💡 About Me
+
+Welcome to the home of **VLSI Enthusiasts** – a collaborative space for passionate minds driving innovation in chip design and semiconductor technology.
+
+I’m a VLSI and electronics engineering student actively exploring:
+- 🔧 Digital Design (Verilog, SystemVerilog)
+- 🧪 Functional Verification (UVM, assertions, testbenches)
+- 📐 Physical Design (EDA tools like Cadence Virtuoso, Innovus)
+- 📊 Circuit simulation, MATLAB, and RTL development
+
+---
+
 - 📫 Reach me at **manidheerajswamy19@gmail.com**
 
 ---
