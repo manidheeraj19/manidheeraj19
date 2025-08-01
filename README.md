@@ -75,4 +75,4 @@ I’m a VLSI and electronics engineering student actively exploring:
 
 ---
 
-> “Let’s decode the future, one transistor at a time.” ⚡
+> **“Let’s decode the future, one transistor at a time.**” ⚡
