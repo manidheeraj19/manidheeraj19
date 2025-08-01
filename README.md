@@ -7,9 +7,10 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=manidheeraj19&theme=tokyonight" alt="manidheeraj19" />
+    <img src="https://github-profile-trophy.vercel.app/?username=manidheeraj19&theme=algolia" alt="manidheeraj19" />
   </a>
 </p>
+
 
 ---
 
