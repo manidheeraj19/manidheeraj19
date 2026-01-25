@@ -19,11 +19,7 @@
 
 Welcome to the home of **VLSI Enthusiasts** – a collaborative space for passionate minds driving innovation in chip design and semiconductor technology.
 
-🔧 Digital Design – Verilog, SystemVerilog, RTL development
-🧪 Functional Verification – UVM, assertions, constrained-random testbenches
-📐 Physical Design – EDA tools such as Cadence Virtuoso, Innovus
-📊 Data Analytics – Python, SQL, data cleaning, exploratory data analysis, dashboards
-📈 Simulation & Analysis – Circuit simulation, MATLAB, performance analysis
+I’m a VLSI and electronics engineering student actively exploring: - 🔧 Digital Design (Verilog, SystemVerilog) - 🧪 Functional Verification (UVM, assertions, testbenches) - 📐 Physical Design (EDA tools like Cadence Virtuoso, Innovus) - 📊 Circuit simulation, MATLAB, and RTL development
 - 
 
 ---
