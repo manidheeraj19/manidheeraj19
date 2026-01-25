@@ -19,11 +19,12 @@
 
 Welcome to the home of **VLSI Enthusiasts** – a collaborative space for passionate minds driving innovation in chip design and semiconductor technology.
 
-I’m a VLSI and electronics engineering student actively exploring:
-- 🔧 Digital Design (Verilog, SystemVerilog)
-- 🧪 Functional Verification (UVM, assertions, testbenches)
-- 📐 Physical Design (EDA tools like Cadence Virtuoso, Innovus)
-- 📊 Circuit simulation, MATLAB, and RTL development
+🔧 Digital Design – Verilog, SystemVerilog, RTL development
+🧪 Functional Verification – UVM, assertions, constrained-random testbenches
+📐 Physical Design – EDA tools such as Cadence Virtuoso, Innovus
+📊 Data Analytics – Python, SQL, data cleaning, exploratory data analysis, dashboards
+📈 Simulation & Analysis – Circuit simulation, MATLAB, performance analysis
+- 
 
 ---
 
@@ -67,13 +68,6 @@ I’m a VLSI and electronics engineering student actively exploring:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manidheeraj19&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=manidheeraj19&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manidheeraj19" alt="GitHub Streak" />
-</p>
 
 ---
 
