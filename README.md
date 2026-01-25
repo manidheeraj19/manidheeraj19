@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manidheeraj Swamy</h1>
 <h3 align="center">Passionate minds driving innovation in chip design and semiconductor technology.</h3>
 
-<
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **manidheerajswamy19@gmail.com**
 
