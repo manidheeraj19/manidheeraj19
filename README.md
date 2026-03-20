@@ -2,7 +2,8 @@
 <h3 align="center">Passionate minds driving innovation in chip design and semiconductor technology.</h3>
 
 
-- 📫 How to reach me **manidheerajswamy19@gmail.com**
+- 📫 How to reach me **manidheerajswamy19@gmail.com**//2200040348ece@gmail.com
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
